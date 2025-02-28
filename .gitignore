@@ -1,5 +1,4 @@
 node_modules/
-dist/
 package-lock.json
 notes.txt
 
@@ -7,7 +6,6 @@ notes.txt
 Thumbs.db*
 .DS_Store*
 HELP.md
-dist
 doc
 
 # Logs
